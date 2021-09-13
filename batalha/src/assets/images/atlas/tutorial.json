@@ -1,0 +1,200 @@
+{
+	"textures": [
+		{
+			"image": "tutorial-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1758,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tutorial_bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				},
+				{
+					"filename": "tutorial_bg_1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 880,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				}
+			]
+		},
+		{
+			"image": "tutorial-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1758,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tutorial_bg_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				},
+				{
+					"filename": "tutorial_bg_3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 880,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				}
+			]
+		},
+		{
+			"image": "tutorial-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1758,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tutorial_bg_4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				},
+				{
+					"filename": "tutorial_bg_5.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 880,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				}
+			]
+		},
+		{
+			"image": "tutorial-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 879,
+				"h": 1173
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tutorial_bg_6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 877,
+						"h": 1171
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 877,
+						"h": 1171
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 877,
+						"h": 1171
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:93da230667fe6eeff522f16025abad2f:26662fc634ca083a2483aa0b8c30a130:37e55b6d45494ecec7a75fd55ba70243$"
+	}
+}

@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "gameObjects-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 505,
+				"h": 223
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "current_step.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 400,
+						"h": 75
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 400,
+						"h": 75
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 400,
+						"h": 75
+					}
+				},
+				{
+					"filename": "tile_blue_on.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 79
+					},
+					"frame": {
+						"x": 403,
+						"y": 1,
+						"w": 79,
+						"h": 79
+					}
+				},
+				{
+					"filename": "tile_castle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 186,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 186,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 78,
+						"w": 186,
+						"h": 66
+					}
+				},
+				{
+					"filename": "btn_attack_off.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 39
+					},
+					"frame": {
+						"x": 189,
+						"y": 78,
+						"w": 151,
+						"h": 39
+					}
+				},
+				{
+					"filename": "tile_peel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 57
+					},
+					"frame": {
+						"x": 342,
+						"y": 78,
+						"w": 57,
+						"h": 57
+					}
+				},
+				{
+					"filename": "btn_attack_on.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 39
+					},
+					"frame": {
+						"x": 189,
+						"y": 119,
+						"w": 151,
+						"h": 39
+					}
+				},
+				{
+					"filename": "tile_red_on.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 75,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 75,
+						"h": 76
+					},
+					"frame": {
+						"x": 1,
+						"y": 146,
+						"w": 75,
+						"h": 76
+					}
+				},
+				{
+					"filename": "tile_hardengage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 57
+					},
+					"frame": {
+						"x": 78,
+						"y": 146,
+						"w": 57,
+						"h": 57
+					}
+				},
+				{
+					"filename": "tile_red_off.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 137,
+						"y": 146,
+						"w": 50,
+						"h": 52
+					}
+				},
+				{
+					"filename": "castle_enemy_hp_100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 16
+					},
+					"frame": {
+						"x": 78,
+						"y": 205,
+						"w": 202,
+						"h": 16
+					}
+				},
+				{
+					"filename": "castle_enemy_hp_50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 16
+					},
+					"frame": {
+						"x": 189,
+						"y": 160,
+						"w": 202,
+						"h": 16
+					}
+				},
+				{
+					"filename": "castle_player_hp_100.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 16
+					},
+					"frame": {
+						"x": 189,
+						"y": 178,
+						"w": 202,
+						"h": 16
+					}
+				},
+				{
+					"filename": "castle_player_hp_50.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 202,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 202,
+						"h": 16
+					},
+					"frame": {
+						"x": 282,
+						"y": 196,
+						"w": 202,
+						"h": 16
+					}
+				},
+				{
+					"filename": "tile_splitpush.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 57
+					},
+					"frame": {
+						"x": 393,
+						"y": 137,
+						"w": 57,
+						"h": 57
+					}
+				},
+				{
+					"filename": "tile_blue_off.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 54
+					},
+					"frame": {
+						"x": 452,
+						"y": 82,
+						"w": 52,
+						"h": 54
+					}
+				},
+				{
+					"filename": "skill_icon_pickoff.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 41
+					},
+					"frame": {
+						"x": 401,
+						"y": 82,
+						"w": 41,
+						"h": 41
+					}
+				},
+				{
+					"filename": "skill_icon_siege.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 41
+					},
+					"frame": {
+						"x": 452,
+						"y": 138,
+						"w": 41,
+						"h": 41
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ed2eb246548ceed655b8484c897ccff4:4d4e0182328ecfa541e459cb6288695d:fdce89751161765e9476d25a68dfc981$"
+	}
+}

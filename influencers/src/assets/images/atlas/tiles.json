@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "tiles.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 164,
+				"h": 2039
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tile_bonus_bottom_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 162,
+						"h": 180
+					}
+				},
+				{
+					"filename": "tile_grey_dark_bottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 183,
+						"w": 162,
+						"h": 180
+					}
+				},
+				{
+					"filename": "tile_grey_light_bottom.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 365,
+						"w": 162,
+						"h": 180
+					}
+				},
+				{
+					"filename": "tile_grey_dark_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 547,
+						"w": 162,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_grey_dark_top.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 711,
+						"w": 162,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_grey_light_left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 875,
+						"w": 162,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_grey_light_top.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 1039,
+						"w": 162,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_start.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 161
+					},
+					"frame": {
+						"x": 1,
+						"y": 1203,
+						"w": 162,
+						"h": 161
+					}
+				},
+				{
+					"filename": "tile_store.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 180
+					},
+					"frame": {
+						"x": 1,
+						"y": 1366,
+						"w": 161,
+						"h": 180
+					}
+				},
+				{
+					"filename": "tile_bonus_top_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 1548,
+						"w": 161,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_grey_dark_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 1712,
+						"w": 161,
+						"h": 162
+					}
+				},
+				{
+					"filename": "tile_grey_light_right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 161,
+						"h": 162
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 161,
+						"h": 162
+					},
+					"frame": {
+						"x": 1,
+						"y": 1876,
+						"w": 161,
+						"h": 162
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4f37f70953c2ae417e52dc7c5ba01d14:f3669df852d2615f41b290a7fff8f109:accbe1e7e294ded8391337fc1c446319$"
+	}
+}

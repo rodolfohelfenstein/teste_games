@@ -1,0 +1,3893 @@
+{
+	"textures": [
+		{
+			"image": "./src/assets/images/atlas/feedback-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1780,
+				"h": 1998
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1114
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1114
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1113
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1113
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 287,
+						"h": 287
+					},
+					"frame": {
+						"x": 1,
+						"y": 1117,
+						"w": 287,
+						"h": 287
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 282,
+						"h": 289
+					},
+					"frame": {
+						"x": 1477,
+						"y": 1,
+						"w": 282,
+						"h": 289
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 2,
+						"w": 280,
+						"h": 288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1406,
+						"w": 280,
+						"h": 288
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 0,
+						"w": 269,
+						"h": 291
+					},
+					"frame": {
+						"x": 1477,
+						"y": 292,
+						"w": 269,
+						"h": 291
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 264,
+						"h": 288
+					},
+					"frame": {
+						"x": 1,
+						"y": 1696,
+						"w": 264,
+						"h": 288
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 0,
+						"w": 247,
+						"h": 292
+					},
+					"frame": {
+						"x": 1477,
+						"y": 585,
+						"w": 247,
+						"h": 292
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 0,
+						"w": 53,
+						"h": 293
+					},
+					"frame": {
+						"x": 1726,
+						"y": 585,
+						"w": 53,
+						"h": 293
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 264,
+						"h": 270
+					},
+					"frame": {
+						"x": 290,
+						"y": 1117,
+						"w": 264,
+						"h": 270
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 1,
+						"w": 240,
+						"h": 289
+					},
+					"frame": {
+						"x": 1477,
+						"y": 879,
+						"w": 240,
+						"h": 289
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 215,
+						"h": 293
+					},
+					"frame": {
+						"x": 556,
+						"y": 1117,
+						"w": 215,
+						"h": 293
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 267,
+						"h": 266
+					},
+					"frame": {
+						"x": 773,
+						"y": 1116,
+						"w": 267,
+						"h": 266
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 13,
+						"w": 267,
+						"h": 266
+					},
+					"frame": {
+						"x": 1042,
+						"y": 1116,
+						"w": 267,
+						"h": 266
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 2,
+						"w": 163,
+						"h": 287
+					},
+					"frame": {
+						"x": 1311,
+						"y": 1116,
+						"w": 163,
+						"h": 287
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 10,
+						"w": 253,
+						"h": 272
+					},
+					"frame": {
+						"x": 1476,
+						"y": 1170,
+						"w": 253,
+						"h": 272
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 0,
+						"w": 55,
+						"h": 297
+					},
+					"frame": {
+						"x": 267,
+						"y": 1696,
+						"w": 55,
+						"h": 297
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 2,
+						"w": 111,
+						"h": 287
+					},
+					"frame": {
+						"x": 283,
+						"y": 1406,
+						"w": 111,
+						"h": 287
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 3,
+						"w": 131,
+						"h": 285
+					},
+					"frame": {
+						"x": 396,
+						"y": 1389,
+						"w": 131,
+						"h": 285
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 12,
+						"w": 261,
+						"h": 268
+					},
+					"frame": {
+						"x": 529,
+						"y": 1412,
+						"w": 261,
+						"h": 268
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 11,
+						"w": 250,
+						"h": 270
+					},
+					"frame": {
+						"x": 792,
+						"y": 1384,
+						"w": 250,
+						"h": 270
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 238,
+						"h": 275
+					},
+					"frame": {
+						"x": 1044,
+						"y": 1384,
+						"w": 238,
+						"h": 275
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 4,
+						"w": 178,
+						"h": 283
+					},
+					"frame": {
+						"x": 1284,
+						"y": 1405,
+						"w": 178,
+						"h": 283
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 10,
+						"w": 232,
+						"h": 272
+					},
+					"frame": {
+						"x": 1464,
+						"y": 1444,
+						"w": 232,
+						"h": 272
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 6,
+						"w": 213,
+						"h": 279
+					},
+					"frame": {
+						"x": 324,
+						"y": 1718,
+						"w": 213,
+						"h": 279
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 1,
+						"w": 207,
+						"h": 289
+					},
+					"frame": {
+						"x": 539,
+						"y": 1682,
+						"w": 207,
+						"h": 289
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 6,
+						"w": 126,
+						"h": 279
+					},
+					"frame": {
+						"x": 748,
+						"y": 1718,
+						"w": 126,
+						"h": 279
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 0,
+						"w": 116,
+						"h": 292
+					},
+					"frame": {
+						"x": 876,
+						"y": 1656,
+						"w": 116,
+						"h": 292
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 9,
+						"w": 205,
+						"h": 274
+					},
+					"frame": {
+						"x": 994,
+						"y": 1661,
+						"w": 205,
+						"h": 274
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 0,
+						"w": 76,
+						"h": 291
+					},
+					"frame": {
+						"x": 1201,
+						"y": 1661,
+						"w": 76,
+						"h": 291
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 0,
+						"w": 171,
+						"h": 292
+					},
+					"frame": {
+						"x": 1279,
+						"y": 1690,
+						"w": 171,
+						"h": 292
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 8,
+						"w": 170,
+						"h": 276
+					},
+					"frame": {
+						"x": 1452,
+						"y": 1718,
+						"w": 170,
+						"h": 276
+					}
+				},
+				{
+					"filename": "moeda_rotacao/moeda_rotacao07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 4,
+						"w": 73,
+						"h": 283
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1444,
+						"w": 73,
+						"h": 283
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1114
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1112
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1112
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1110
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1110
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1112
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1110
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1110
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1108
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1108
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1108
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1106
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1106
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1105
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1105
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1107
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1105
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1105
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1104
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1104
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-5.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1105
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1103
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1103
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1101
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1101
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-6.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1103
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1101
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1101
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1099
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1099
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-7.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1101
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1099
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1099
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1098
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1098
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-8.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1101
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1099
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1099
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1097
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1097
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-9.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1098
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1098
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1097
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1097
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-10.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1098
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1098
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1097
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1097
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-11.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1100
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1098
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1098
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1097
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1097
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-12.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1098
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1096
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1096
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1096
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 724,
+						"h": 1096
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-13.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1098
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1096
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1096
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1095
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1095
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-14.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1098
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1096
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1096
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1095
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1095
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-15.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1097
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1095
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1095
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1095
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 724,
+						"h": 1095
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-16.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1097
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1095
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1095
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1094
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1094
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-17.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1097
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1095
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1095
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1094
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1094
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-18.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1096
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1094
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1094
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1093
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1093
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-19.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1096
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1094
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1094
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1093
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1093
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-20.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1096
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1094
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1094
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1093
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1093
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-21.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1096
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1094
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1094
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_47.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1093
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1093
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-22.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1095
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1093
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1093
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1092
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1092
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-23.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1095
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1093
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1093
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_45.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1092
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1092
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-24.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1094
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_46.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1092
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1092
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_48.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1092
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1092
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-25.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1094
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1092
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1092
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-26.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1094
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1092
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1092
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-27.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1094
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1092
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1092
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-28.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_44.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-29.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_49.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-30.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1090
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1090
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-31.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1090
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1090
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-32.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1090
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1090
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-33.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_43.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_50.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1090
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1090
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-34.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1093
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1091
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1091
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_51.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1090
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1090
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-35.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1092
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1090
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1090
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-36.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-37.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-38.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_52.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_53.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-39.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_54.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-40.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1091
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1089
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1089
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_42.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1089
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 724,
+						"h": 1089
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-41.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-42.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-43.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1476,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_vitoria/bandeira_60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-44.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1464,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_vitoria/bandeira_61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 736,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 736,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1088
+					},
+					"frame": {
+						"x": 739,
+						"y": 1,
+						"w": 724,
+						"h": 1088
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-45.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_41.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1088
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1088
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-46.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1090
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_55.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1088
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1088
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_40.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1087
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1087
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-47.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1088
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1086
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1086
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_39.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1086
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1086
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-48.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1087
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1085
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1085
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_38.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1085
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1085
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-49.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1087
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_56.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1085
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1085
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1084
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1084
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-50.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1086
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_37.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1084
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1084
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1082
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1082
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-51.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1084
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1082
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1082
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_36.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1082
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1082
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-52.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1084
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_57.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1082
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1082
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1080
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1080
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-53.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1082
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_35.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1080
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1080
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-54.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1082
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_58.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1080
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1080
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1079
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1079
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-55.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1081
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_34.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1079
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1079
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1078
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1078
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-56.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1080
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1078
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1078
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_33.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1078
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1078
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-57.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1080
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_59.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1078
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1078
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1077
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1077
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-58.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1079
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_30.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1077
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1077
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_32.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1077
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1077
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-59.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1079
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_60.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1077
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1077
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1076
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1076
+					}
+				}
+			]
+		},
+		{
+			"image": "./src/assets/images/atlas/feedback-60.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1452,
+				"h": 1078
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "bandeira_derrota/bandeira_31.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1076
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 724,
+						"h": 1076
+					}
+				},
+				{
+					"filename": "bandeira_derrota/bandeira_61.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 1300
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 104,
+						"w": 724,
+						"h": 1076
+					},
+					"frame": {
+						"x": 727,
+						"y": 1,
+						"w": 724,
+						"h": 1076
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:838ddca5f14e7fb8c11de3a12fd55da6:9bb1284b5f130b3c4bba01ac91512b17:502c041790d07b26e5d1853c9b6ec36c$"
+	}
+}
